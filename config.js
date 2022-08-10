@@ -1,11 +1,11 @@
 //=============『 Utama 』================== //
-global.owner = ['6288212514602'] 
+global.owner = ['6287833118871'] 
 global.mods = [] 
 global.prems = [] 
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Azwan'
-global.numberowner = '6288212514602'
+global.numberowner = '6287833118871'
 global.instagram = 'https://instagram.com/ainul_181'
 global.github = 'https://github.com/AinulBotz'
 global.dana = '08971724481'
@@ -13,7 +13,7 @@ global.pulsa = '08971724481'
 global.gopay = '08971724481'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'AzwanmdBotz'
+global.namebot = 'dikaBotz'
 global.gc = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY'
 global.web = 'https://chat.whatsapp.com/DoB35RNfbW3AZgb0SmRNGY' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 01.000\n2 Minggu 4.000\n1 Minggu 2.000'
